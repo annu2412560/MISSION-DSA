@@ -27,6 +27,7 @@ int main(){
 
             
         }
+    
 
     cout<<max_tpc<<endl<<cnt<<endl;
     return 0;
